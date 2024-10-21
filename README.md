@@ -1,4 +1,4 @@
-# What I learned with React playground
+# What I learned with React
 
 ## Table of contents
 - [Basics](#basics)
